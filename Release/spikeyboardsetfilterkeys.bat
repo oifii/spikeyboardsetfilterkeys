@@ -1,0 +1,1 @@
+spikeyboardsetfilterkeys.exe > spikeyboardsetfilterkeys.txt
