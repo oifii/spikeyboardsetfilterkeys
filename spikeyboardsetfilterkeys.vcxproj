@@ -75,6 +75,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <None Include="ReadMe.txt" />
+    <None Include="spi.licenseheader" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
